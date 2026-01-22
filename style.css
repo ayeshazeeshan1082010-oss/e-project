@@ -1,0 +1,18 @@
+section {
+    display: flex;
+    gap: 40px;
+    justify-content: center;
+}
+
+.col-lg.\31 2 {
+    display: flex;
+    justify-content: center;
+    margin: 5%;
+    padding: 1%;
+}
+/* 
+
+.col {
+    border: 2px solid;
+    color: gray;
+} */
